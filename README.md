@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Jorge, and I live in Melbourne  - Australia.
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 🌱 Learning front end web development
 - 👯 I’m looking to collaborate on ... Whatever I can.
 <!--
 **SanchoDev39/SanchoDev39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
