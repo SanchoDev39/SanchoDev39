@@ -4,15 +4,15 @@ Self-taught developer and AI/agents enthusiast from Melbourne, Australia. Curren
 🤔 I'm looking for help with
 Landing my first junior dev or AI-adjacent role in Melbourne — and tips on standing out when you're self-taught? Always keen to learn and collaborate.
 
-💬 Ask me about
-Building with the Claude API and AI agents
-Python automation and scripting
-Local AI tooling and model experimentation
-Web dev with HTML/CSS/JavaScript
-Why the sci-fi HUD aesthetic is objectively superior
-Image classification and computer vision projects
-📚 Tech Stack
-Python JavaScript HTML5 CSS3 SQL Claude API
+💬 Ask me about:
+Building with the Claude API and AI agents.
+Python automation and scripting.
+Local AI tooling and model experimentation.
+Web dev with HTML/CSS/JavaScript.
+Why the sci-fi HUD aesthetic is objectively superior.
+Image classification and computer vision projects.
+📚 Tech Stack.
+Python JavaScript HTML5 CSS3 SQL Claude API.
 
 🚀 Current Projects
 🤖 Jarvis Voice Assistant
